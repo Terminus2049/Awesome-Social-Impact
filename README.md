@@ -4,7 +4,7 @@
 
 **收录说明**：必须为 GitHub/GitLab 项目，project 链接为 GitHub/GitLab 链接。
 
-## 社会议题
+### 社会议题
 
 |Project| Description|Chat| Last commit|Stars|
 |---|---|---|----|---|
@@ -16,14 +16,14 @@
 |[evil-huawei/evil-huawei](https://github.com/evil-huawei/evil-huawei)|华为作过的恶||[![Latest GitHub commit](https://img.shields.io/github/last-commit/evil-huawei/evil-huawei?logo=github&label)](https://github.com/evil-huawei/evil-huawei)|[![GitHub stars](https://img.shields.io/github/stars/evil-huawei/evil-huawei)](https://github.com/evil-huawei/evil-huawei/stargazers)|
 |[renjie-feng-trash/fengrenjie](https://github.com/renjie-feng-trash/fengrenjie)|这个repo是为了锤北大垃圾教授——冯仁杰 ||[![Latest GitHub commit](https://img.shields.io/github/last-commit/renjie-feng-trash/fengrenjie?logo=github&label)](https://github.com/renjie-feng-trash/fengrenjie)|[![GitHub stars](https://img.shields.io/github/stars/renjie-feng-trash/fengrenjie)](https://github.com/renjie-feng-trash/fengrenjie/stargazers)|
 
-## 公民教育
+### 公民教育
 
 |Project| Description|Chat| Last commit|Stars|
 |---|---|---|----|---|
 |[civicforum/civicforum.github.io](https://github.com/civicforum/civicforum.github.io)|公民教育|[t/852](https://2049bbs.xyz/t/852)|[![Latest GitHub commit](https://img.shields.io/github/last-commit/civicforum/civicforum.github.io?logo=github&label)](https://github.com/civicforum/civicforum.github.io)|[![GitHub stars](https://img.shields.io/github/stars/civicforum/civicforum.github.io)](https://github.com/civicforum/civicforum.github.io/stargazers)|
 |[DamoresClub/DamoresClub.github.io](https://github.com/DamoresClub/DamoresClub.github.io)|像James Damore一样参与公共讨论|[t/2289](https://2049bbs.xyz/t/2289)|[![Latest GitHub commit](https://img.shields.io/github/last-commit/DamoresClub/DamoresClub.github.io?logo=github&label)](https://github.com/DamoresClub/DamoresClub.github.io)|[![GitHub stars](https://img.shields.io/github/stars/DamoresClub/DamoresClub.github.io)](https://github.com/DamoresClub/DamoresClub.github.io/stargazers)|
 
-## 个人作品
+### 个人作品
 
 |Project| Description|Chat| Last commit|Stars|
 |---|---|---|----|---|
@@ -31,16 +31,14 @@
 |[bennytai/HongKongReflections](https://github.com/bennytai/HongKongReflections)|思考香港系列(戴耀廷)|[t/1378](https://2049bbs.xyz/t/1378)|[![Latest GitHub commit](https://img.shields.io/github/last-commit/bennytai/HongKongReflections?logo=github&label)](https://github.com/bennytai/HongKongReflections)|[![GitHub stars](https://img.shields.io/github/stars/bennytai/HongKongReflections)](https://github.com/bennytai/HongKongReflections/stargazers)|
 |[Arioseins/English-Study](https://github.com/Arioseins/English-Study)|英语新闻翻译项目|[t/1288](https://2049bbs.xyz/t/1288)|[![Latest GitHub commit](https://img.shields.io/github/last-commit/Arioseins/English-Study?logo=github&label)](https://github.com/Arioseins/English-Study)|[![GitHub stars](https://img.shields.io/github/stars/Arioseins/English-Study)](https://github.com/Arioseins/English-Study/stargazers)|
 
-
-## 社团
+### 社团
 
 |Project| Description|Chat| Last commit|Stars|
 |---|---|---|----|---|
 |[yousi-society/yousi-society.github.io](https://github.com/yousi-society/yousi-society.github.io)|游思学社||[![Latest GitHub commit](https://img.shields.io/github/last-commit/yousi-society/yousi-society.github.io?logo=github&label)](https://github.com/yousi-society/yousi-society.github.io)|[![GitHub stars](https://img.shields.io/github/stars/yousi-society/yousi-society.github.io)](https://github.com/yousi-society/yousi-society.github.io/stargazers)|
 |[LirenCollege/LirenCollege.github.io](https://github.com/LirenCollege/LirenCollege.github.io)|立大博客||[![Latest GitHub commit](https://img.shields.io/github/last-commit/LirenCollege/LirenCollege.github.io?logo=github&label)](https://github.com/LirenCollege/LirenCollege.github.io)|[![GitHub stars](https://img.shields.io/github/stars/LirenCollege/LirenCollege.github.io)](https://github.com/LirenCollege/LirenCollege.github.io/stargazers)|
 
-
-## 中文资料备份
+### 中文资料备份
 
 |Project| Description|Chat| Last commit|Stars|
 |---|---|---|----|---|
