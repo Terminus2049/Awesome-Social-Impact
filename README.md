@@ -18,6 +18,8 @@
 |[evil-huawei/evil-huawei](https://github.com/evil-huawei/evil-huawei)|华为作过的恶||[![Latest GitHub commit](https://img.shields.io/github/last-commit/evil-huawei/evil-huawei?logo=github&label)](https://github.com/evil-huawei/evil-huawei)|[![GitHub stars](https://img.shields.io/github/stars/evil-huawei/evil-huawei)](https://github.com/evil-huawei/evil-huawei/stargazers)|
 |[renjie-feng-trash/fengrenjie](https://github.com/renjie-feng-trash/fengrenjie)|这个repo是为了锤北大垃圾教授——冯仁杰 ||[![Latest GitHub commit](https://img.shields.io/github/last-commit/renjie-feng-trash/fengrenjie?logo=github&label)](https://github.com/renjie-feng-trash/fengrenjie)|[![GitHub stars](https://img.shields.io/github/stars/renjie-feng-trash/fengrenjie)](https://github.com/renjie-feng-trash/fengrenjie/stargazers)|
 |[lbj96347/2020-virus-map](https://github.com/lbj96347/2020-virus-map)|新型冠状病毒在线地图|[t/2589](https://2049bbs.xyz/t/2589)|[![Latest GitHub commit](https://img.shields.io/github/last-commit/lbj96347/2020-virus-map?logo=github&label)](https://github.com/lbj96347/2020-virus-map)|[![GitHub stars](https://img.shields.io/github/stars/lbj96347/2020-virus-map)](https://github.com/lbj96347/2020-virus-map/stargazers)|
+|[2019ncovmemory/nCovMemory](https://github.com/2019ncovmemory/nCovMemory)|2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）|[t/2790](https://2049bbs.xyz/t/2790)|[![Latest GitHub commit](https://img.shields.io/github/last-commit/2019ncovmemory/nCovMemory?logo=github&label)](https://github.com/2019ncovmemory/nCovMemory)|[![GitHub stars](https://img.shields.io/github/stars/2019ncovmemory/nCovMemory)](https://github.com/2019ncovmemory/nCovMemory/stargazers)|
+
 
 ### 公民教育
 
